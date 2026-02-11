@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Every day with you feels like a dream come true. You've filled my life with so much love, laughter, and joy. I wanted to create this special little corner of the internet just to tell you how much you mean to me. Will you make me the happiest person and be my Valentine?? 🌹", // The big question!
+            text: "Every day with you feels like a dream come true. You've filled my life with so much love, laughter, and joy. I wanted to create this special little corner of the internet just to tell you how much you mean to me. Will you make me the happiest person and be my Valentine?? 🌹",  // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
