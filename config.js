@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I like you so much! ❤️"           // Secret hover message
+            yesBtn: "Yes!",                                             // Text for "Yes" button
+            noBtn: "Hell noo",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I like you soooo much! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you like me?",                          // For the love meter
@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "You've filled my life with so much love, laughter, and joy in every second I spent my time with you. I wanted to create this special little corner of the internet just to tell you how much you mean to me. Will you make me the happiest person and be my Valentine?? 🌹",  // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "Nope"                                                 // Text for "No" button
         }
     },
 
@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "uwaaa you like me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        high: "cmon... surely more rightt?? 🚀💝",              // Shows when they go past 1000%
+        normal: "more...... 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
