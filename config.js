@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "You've filled my life with so much love, laughter, and joy in every second I spent my time with you. I wanted to create this special little corner of the internet just to tell you how much you mean to me. Will you make me the happiest person and be my Valentine?? 🌹",  // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
+            yesBtn: "Yes!!",                                             // Text for "Yes" button
             noBtn: "Nope"                                                 // Text for "No" button
         }
     },
