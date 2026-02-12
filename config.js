@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '​🤍​', '💝', '💗', '💓', '💞'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -25,12 +25,12 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "Hell noo",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I like you soooo much! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I like you soooo much! 🤗​🤗​💕"           // Secret hover message
         },
         second: {
             text: "How much do you like me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next ​🤍​😘​"                                         // Text for the next button
         },
         third: {
             text: "You've filled my life with so much love, laughter, and joy in every second I spent my time with you. I wanted to create this special little corner of the internet just to tell you how much you mean to me. Will you make me the happiest person and be my Valentine?? 🌹",  // The big question!
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yayy! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Giving you the biggest virtual hugs and kisses 🥰🥰🥰 Flowers and gifts are waiting for you the next time we meet!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Giving you the biggest virtual hugs and kisses 🥰👩‍❤️‍💋‍👨😘 Flowers and gifts are waiting for you the next time we meet!",
+        emojis: "🎁💖🤗💝💋❤️💕🍫"  // These will bounce around
     },
 
     // Color scheme for the website
