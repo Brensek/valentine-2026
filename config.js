@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yayy! I’m so lucky it’s you 💞💗 ",
-        message: "Giving you the biggest virtual hugs and kisses until I can give you the real ones 🥰👩‍❤️‍💋‍👨😘 Flowers and gifts are waiting for you the next time we meet!! 💐😘",
-        emojis: "🎁💖🤗💝💋❤️💕🍫"  // These will bounce around
+        message: "Giving you the biggest virtual hugs and kisses until I can give you the real ones 🥰👩‍❤️‍💋‍👨😘🤗 Flowers and gifts are waiting for you the next time we meet!!",
+        emojis: "💐😘🎁💖🤗💝💋❤️💕🍫"  // These will bounce around
     },
 
     // Color scheme for the website
